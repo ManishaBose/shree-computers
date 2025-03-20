@@ -1,5 +1,13 @@
-import Image from "next/image";
+import Contact from "@/components/Contact";
+import Features from "@/components/Features";
+import Hero from "@/components/Hero";
 
 export default function Home() {
-  return <div>Hello World!</div>;
+  return (
+    <div>
+      <Hero />
+      <Features />
+      <Contact />
+    </div>
+  );
 }
