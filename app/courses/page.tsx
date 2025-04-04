@@ -34,6 +34,9 @@ export default function Courses() {
       <div>HTML</div>
       <div>Data Structures using C</div>
       <div>Oracle</div>
+      <div>C#</div>
+      <div>VB .NET</div>
+      <div>Python</div>
     </div>
   );
 }
