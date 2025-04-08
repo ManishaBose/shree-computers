@@ -1,6 +1,6 @@
 export default function () {
   return (
-    <div>
+    <div className="flex justify-between">
       <div>Icon</div>
       <div>About us</div>
       <div>Courses</div>
