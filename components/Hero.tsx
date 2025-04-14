@@ -4,8 +4,10 @@ export default function Hero() {
       <div>Shree Computers</div>
       <div>Master the digital world:</div>
       <div>From Basics to Beyond</div>
-      <div>Explore Courses</div>
-      <div>Contact</div>
+      <div className="flex">
+        <div>Explore Courses | </div>
+        <div>Contact</div>
+      </div>
     </div>
   );
 }
